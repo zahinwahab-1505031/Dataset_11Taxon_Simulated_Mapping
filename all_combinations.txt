@@ -1,0 +1,990 @@
+combination: 1
+a,c,d
+Permutation:
+a,c,d
+c,d,a
+d,a,c
+combination: 2
+b,c,d
+Permutation:
+b,c,d
+c,d,b
+d,b,c
+combination: 3
+c,d,j
+Permutation:
+c,d,j
+d,j,c
+j,c,d
+combination: 4
+c,d,f
+Permutation:
+c,d,f
+d,f,c
+f,c,d
+combination: 5
+c,d,e
+Permutation:
+c,d,e
+d,e,c
+e,c,d
+combination: 6
+c,d,h
+Permutation:
+c,d,h
+d,h,c
+h,c,d
+combination: 7
+c,d,g
+Permutation:
+c,d,g
+d,g,c
+g,c,d
+combination: 8
+c,d,i
+Permutation:
+c,d,i
+d,i,c
+i,c,d
+combination: 9
+c,d,k
+Permutation:
+c,d,k
+d,k,c
+k,c,d
+combination: 10
+a,b,d
+Permutation:
+a,b,d
+b,d,a
+d,a,b
+combination: 11
+a,d,j
+Permutation:
+a,d,j
+d,j,a
+j,a,d
+combination: 12
+a,d,f
+Permutation:
+a,d,f
+d,f,a
+f,a,d
+combination: 13
+a,d,e
+Permutation:
+a,d,e
+d,e,a
+e,a,d
+combination: 14
+a,d,h
+Permutation:
+a,d,h
+d,h,a
+h,a,d
+combination: 15
+a,d,g
+Permutation:
+a,d,g
+d,g,a
+g,a,d
+combination: 16
+a,d,i
+Permutation:
+a,d,i
+d,i,a
+i,a,d
+combination: 17
+a,d,k
+Permutation:
+a,d,k
+d,k,a
+k,a,d
+combination: 18
+b,d,j
+Permutation:
+b,d,j
+d,j,b
+j,b,d
+combination: 19
+b,d,f
+Permutation:
+b,d,f
+d,f,b
+f,b,d
+combination: 20
+b,d,e
+Permutation:
+b,d,e
+d,e,b
+e,b,d
+combination: 21
+b,d,h
+Permutation:
+b,d,h
+d,h,b
+h,b,d
+combination: 22
+b,d,g
+Permutation:
+b,d,g
+d,g,b
+g,b,d
+combination: 23
+b,d,i
+Permutation:
+b,d,i
+d,i,b
+i,b,d
+combination: 24
+b,d,k
+Permutation:
+b,d,k
+d,k,b
+k,b,d
+combination: 25
+d,f,j
+Permutation:
+d,f,j
+f,j,d
+j,d,f
+combination: 26
+d,e,j
+Permutation:
+d,e,j
+e,j,d
+j,d,e
+combination: 27
+d,h,j
+Permutation:
+d,h,j
+h,j,d
+j,d,h
+combination: 28
+d,g,j
+Permutation:
+d,g,j
+g,j,d
+j,d,g
+combination: 29
+d,i,j
+Permutation:
+d,i,j
+i,j,d
+j,d,i
+combination: 30
+d,j,k
+Permutation:
+d,j,k
+j,k,d
+k,d,j
+combination: 31
+d,e,f
+Permutation:
+d,e,f
+e,f,d
+f,d,e
+combination: 32
+d,f,h
+Permutation:
+d,f,h
+f,h,d
+h,d,f
+combination: 33
+d,f,g
+Permutation:
+d,f,g
+f,g,d
+g,d,f
+combination: 34
+d,f,i
+Permutation:
+d,f,i
+f,i,d
+i,d,f
+combination: 35
+d,f,k
+Permutation:
+d,f,k
+f,k,d
+k,d,f
+combination: 36
+d,e,h
+Permutation:
+d,e,h
+e,h,d
+h,d,e
+combination: 37
+d,e,g
+Permutation:
+d,e,g
+e,g,d
+g,d,e
+combination: 38
+d,e,i
+Permutation:
+d,e,i
+e,i,d
+i,d,e
+combination: 39
+d,e,k
+Permutation:
+d,e,k
+e,k,d
+k,d,e
+combination: 40
+d,g,h
+Permutation:
+d,g,h
+g,h,d
+h,d,g
+combination: 41
+d,h,i
+Permutation:
+d,h,i
+h,i,d
+i,d,h
+combination: 42
+d,h,k
+Permutation:
+d,h,k
+h,k,d
+k,d,h
+combination: 43
+d,g,i
+Permutation:
+d,g,i
+g,i,d
+i,d,g
+combination: 44
+d,g,k
+Permutation:
+d,g,k
+g,k,d
+k,d,g
+combination: 45
+d,i,k
+Permutation:
+d,i,k
+i,k,d
+k,d,i
+combination: 46
+a,b,c
+Permutation:
+a,b,c
+b,c,a
+c,a,b
+combination: 47
+a,c,j
+Permutation:
+a,c,j
+c,j,a
+j,a,c
+combination: 48
+a,c,f
+Permutation:
+a,c,f
+c,f,a
+f,a,c
+combination: 49
+a,c,e
+Permutation:
+a,c,e
+c,e,a
+e,a,c
+combination: 50
+a,c,h
+Permutation:
+a,c,h
+c,h,a
+h,a,c
+combination: 51
+a,c,g
+Permutation:
+a,c,g
+c,g,a
+g,a,c
+combination: 52
+a,c,i
+Permutation:
+a,c,i
+c,i,a
+i,a,c
+combination: 53
+a,c,k
+Permutation:
+a,c,k
+c,k,a
+k,a,c
+combination: 54
+b,c,j
+Permutation:
+b,c,j
+c,j,b
+j,b,c
+combination: 55
+b,c,f
+Permutation:
+b,c,f
+c,f,b
+f,b,c
+combination: 56
+b,c,e
+Permutation:
+b,c,e
+c,e,b
+e,b,c
+combination: 57
+b,c,h
+Permutation:
+b,c,h
+c,h,b
+h,b,c
+combination: 58
+b,c,g
+Permutation:
+b,c,g
+c,g,b
+g,b,c
+combination: 59
+b,c,i
+Permutation:
+b,c,i
+c,i,b
+i,b,c
+combination: 60
+b,c,k
+Permutation:
+b,c,k
+c,k,b
+k,b,c
+combination: 61
+c,f,j
+Permutation:
+c,f,j
+f,j,c
+j,c,f
+combination: 62
+c,e,j
+Permutation:
+c,e,j
+e,j,c
+j,c,e
+combination: 63
+c,h,j
+Permutation:
+c,h,j
+h,j,c
+j,c,h
+combination: 64
+c,g,j
+Permutation:
+c,g,j
+g,j,c
+j,c,g
+combination: 65
+c,i,j
+Permutation:
+c,i,j
+i,j,c
+j,c,i
+combination: 66
+c,j,k
+Permutation:
+c,j,k
+j,k,c
+k,c,j
+combination: 67
+c,e,f
+Permutation:
+c,e,f
+e,f,c
+f,c,e
+combination: 68
+c,f,h
+Permutation:
+c,f,h
+f,h,c
+h,c,f
+combination: 69
+c,f,g
+Permutation:
+c,f,g
+f,g,c
+g,c,f
+combination: 70
+c,f,i
+Permutation:
+c,f,i
+f,i,c
+i,c,f
+combination: 71
+c,f,k
+Permutation:
+c,f,k
+f,k,c
+k,c,f
+combination: 72
+c,e,h
+Permutation:
+c,e,h
+e,h,c
+h,c,e
+combination: 73
+c,e,g
+Permutation:
+c,e,g
+e,g,c
+g,c,e
+combination: 74
+c,e,i
+Permutation:
+c,e,i
+e,i,c
+i,c,e
+combination: 75
+c,e,k
+Permutation:
+c,e,k
+e,k,c
+k,c,e
+combination: 76
+c,g,h
+Permutation:
+c,g,h
+g,h,c
+h,c,g
+combination: 77
+c,h,i
+Permutation:
+c,h,i
+h,i,c
+i,c,h
+combination: 78
+c,h,k
+Permutation:
+c,h,k
+h,k,c
+k,c,h
+combination: 79
+c,g,i
+Permutation:
+c,g,i
+g,i,c
+i,c,g
+combination: 80
+c,g,k
+Permutation:
+c,g,k
+g,k,c
+k,c,g
+combination: 81
+c,i,k
+Permutation:
+c,i,k
+i,k,c
+k,c,i
+combination: 82
+a,b,j
+Permutation:
+a,b,j
+b,j,a
+j,a,b
+combination: 83
+a,b,f
+Permutation:
+a,b,f
+b,f,a
+f,a,b
+combination: 84
+a,b,e
+Permutation:
+a,b,e
+b,e,a
+e,a,b
+combination: 85
+a,b,h
+Permutation:
+a,b,h
+b,h,a
+h,a,b
+combination: 86
+a,b,g
+Permutation:
+a,b,g
+b,g,a
+g,a,b
+combination: 87
+a,b,i
+Permutation:
+a,b,i
+b,i,a
+i,a,b
+combination: 88
+a,b,k
+Permutation:
+a,b,k
+b,k,a
+k,a,b
+combination: 89
+a,f,j
+Permutation:
+a,f,j
+f,j,a
+j,a,f
+combination: 90
+a,e,j
+Permutation:
+a,e,j
+e,j,a
+j,a,e
+combination: 91
+a,h,j
+Permutation:
+a,h,j
+h,j,a
+j,a,h
+combination: 92
+a,g,j
+Permutation:
+a,g,j
+g,j,a
+j,a,g
+combination: 93
+a,i,j
+Permutation:
+a,i,j
+i,j,a
+j,a,i
+combination: 94
+a,j,k
+Permutation:
+a,j,k
+j,k,a
+k,a,j
+combination: 95
+a,e,f
+Permutation:
+a,e,f
+e,f,a
+f,a,e
+combination: 96
+a,f,h
+Permutation:
+a,f,h
+f,h,a
+h,a,f
+combination: 97
+a,f,g
+Permutation:
+a,f,g
+f,g,a
+g,a,f
+combination: 98
+a,f,i
+Permutation:
+a,f,i
+f,i,a
+i,a,f
+combination: 99
+a,f,k
+Permutation:
+a,f,k
+f,k,a
+k,a,f
+combination: 100
+a,e,h
+Permutation:
+a,e,h
+e,h,a
+h,a,e
+combination: 101
+a,e,g
+Permutation:
+a,e,g
+e,g,a
+g,a,e
+combination: 102
+a,e,i
+Permutation:
+a,e,i
+e,i,a
+i,a,e
+combination: 103
+a,e,k
+Permutation:
+a,e,k
+e,k,a
+k,a,e
+combination: 104
+a,g,h
+Permutation:
+a,g,h
+g,h,a
+h,a,g
+combination: 105
+a,h,i
+Permutation:
+a,h,i
+h,i,a
+i,a,h
+combination: 106
+a,h,k
+Permutation:
+a,h,k
+h,k,a
+k,a,h
+combination: 107
+a,g,i
+Permutation:
+a,g,i
+g,i,a
+i,a,g
+combination: 108
+a,g,k
+Permutation:
+a,g,k
+g,k,a
+k,a,g
+combination: 109
+a,i,k
+Permutation:
+a,i,k
+i,k,a
+k,a,i
+combination: 110
+b,f,j
+Permutation:
+b,f,j
+f,j,b
+j,b,f
+combination: 111
+b,e,j
+Permutation:
+b,e,j
+e,j,b
+j,b,e
+combination: 112
+b,h,j
+Permutation:
+b,h,j
+h,j,b
+j,b,h
+combination: 113
+b,g,j
+Permutation:
+b,g,j
+g,j,b
+j,b,g
+combination: 114
+b,i,j
+Permutation:
+b,i,j
+i,j,b
+j,b,i
+combination: 115
+b,j,k
+Permutation:
+b,j,k
+j,k,b
+k,b,j
+combination: 116
+b,e,f
+Permutation:
+b,e,f
+e,f,b
+f,b,e
+combination: 117
+b,f,h
+Permutation:
+b,f,h
+f,h,b
+h,b,f
+combination: 118
+b,f,g
+Permutation:
+b,f,g
+f,g,b
+g,b,f
+combination: 119
+b,f,i
+Permutation:
+b,f,i
+f,i,b
+i,b,f
+combination: 120
+b,f,k
+Permutation:
+b,f,k
+f,k,b
+k,b,f
+combination: 121
+b,e,h
+Permutation:
+b,e,h
+e,h,b
+h,b,e
+combination: 122
+b,e,g
+Permutation:
+b,e,g
+e,g,b
+g,b,e
+combination: 123
+b,e,i
+Permutation:
+b,e,i
+e,i,b
+i,b,e
+combination: 124
+b,e,k
+Permutation:
+b,e,k
+e,k,b
+k,b,e
+combination: 125
+b,g,h
+Permutation:
+b,g,h
+g,h,b
+h,b,g
+combination: 126
+b,h,i
+Permutation:
+b,h,i
+h,i,b
+i,b,h
+combination: 127
+b,h,k
+Permutation:
+b,h,k
+h,k,b
+k,b,h
+combination: 128
+b,g,i
+Permutation:
+b,g,i
+g,i,b
+i,b,g
+combination: 129
+b,g,k
+Permutation:
+b,g,k
+g,k,b
+k,b,g
+combination: 130
+b,i,k
+Permutation:
+b,i,k
+i,k,b
+k,b,i
+combination: 131
+e,f,j
+Permutation:
+e,f,j
+f,j,e
+j,e,f
+combination: 132
+f,h,j
+Permutation:
+f,h,j
+h,j,f
+j,f,h
+combination: 133
+f,g,j
+Permutation:
+f,g,j
+g,j,f
+j,f,g
+combination: 134
+f,i,j
+Permutation:
+f,i,j
+i,j,f
+j,f,i
+combination: 135
+f,j,k
+Permutation:
+f,j,k
+j,k,f
+k,f,j
+combination: 136
+e,h,j
+Permutation:
+e,h,j
+h,j,e
+j,e,h
+combination: 137
+e,g,j
+Permutation:
+e,g,j
+g,j,e
+j,e,g
+combination: 138
+e,i,j
+Permutation:
+e,i,j
+i,j,e
+j,e,i
+combination: 139
+e,j,k
+Permutation:
+e,j,k
+j,k,e
+k,e,j
+combination: 140
+g,h,j
+Permutation:
+g,h,j
+h,j,g
+j,g,h
+combination: 141
+h,i,j
+Permutation:
+h,i,j
+i,j,h
+j,h,i
+combination: 142
+h,j,k
+Permutation:
+h,j,k
+j,k,h
+k,h,j
+combination: 143
+g,i,j
+Permutation:
+g,i,j
+i,j,g
+j,g,i
+combination: 144
+g,j,k
+Permutation:
+g,j,k
+j,k,g
+k,g,j
+combination: 145
+i,j,k
+Permutation:
+i,j,k
+j,k,i
+k,i,j
+combination: 146
+e,f,h
+Permutation:
+e,f,h
+f,h,e
+h,e,f
+combination: 147
+e,f,g
+Permutation:
+e,f,g
+f,g,e
+g,e,f
+combination: 148
+e,f,i
+Permutation:
+e,f,i
+f,i,e
+i,e,f
+combination: 149
+e,f,k
+Permutation:
+e,f,k
+f,k,e
+k,e,f
+combination: 150
+f,g,h
+Permutation:
+f,g,h
+g,h,f
+h,f,g
+combination: 151
+f,h,i
+Permutation:
+f,h,i
+h,i,f
+i,f,h
+combination: 152
+f,h,k
+Permutation:
+f,h,k
+h,k,f
+k,f,h
+combination: 153
+f,g,i
+Permutation:
+f,g,i
+g,i,f
+i,f,g
+combination: 154
+f,g,k
+Permutation:
+f,g,k
+g,k,f
+k,f,g
+combination: 155
+f,i,k
+Permutation:
+f,i,k
+i,k,f
+k,f,i
+combination: 156
+e,g,h
+Permutation:
+e,g,h
+g,h,e
+h,e,g
+combination: 157
+e,h,i
+Permutation:
+e,h,i
+h,i,e
+i,e,h
+combination: 158
+e,h,k
+Permutation:
+e,h,k
+h,k,e
+k,e,h
+combination: 159
+e,g,i
+Permutation:
+e,g,i
+g,i,e
+i,e,g
+combination: 160
+e,g,k
+Permutation:
+e,g,k
+g,k,e
+k,e,g
+combination: 161
+e,i,k
+Permutation:
+e,i,k
+i,k,e
+k,e,i
+combination: 162
+g,h,i
+Permutation:
+g,h,i
+h,i,g
+i,g,h
+combination: 163
+g,h,k
+Permutation:
+g,h,k
+h,k,g
+k,g,h
+combination: 164
+h,i,k
+Permutation:
+h,i,k
+i,k,h
+k,h,i
+combination: 165
+g,i,k
+Permutation:
+g,i,k
+i,k,g
+k,g,i
